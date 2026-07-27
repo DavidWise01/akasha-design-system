@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1022
 slug  : akasha-design-system
-seal  : 0fc59edc05b78b58280f6d1bde8273b39fcf53d0db2de3bccf95a9aaf0339bcb
-prev  : 06df5587875a030927c68f343297b07058f988ba0fcf812d3104d8e56667507a
-link  : 3b7e41f82c8956e9cd06bf6002ac592ccefa4dd6fe8686dfd913af523425bd40
-head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
+seal  : 93eb930e39e432da9dd50257e2f896e925bf5706d1b0ee55f973633cf5ab2596
+prev  : 060a97dda95cb1d71477e73a6dcedf3adbc119d4dd73f5fb70ff699b172597b3
+link  : c3eddf689f91eda95cee27ea253b9b9496541700a36dae1677d3f0341e0e3781
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
